@@ -1,0 +1,138 @@
+indice,nombre,etiqueta
+1,te1,respondent_id
+2,te2,collector_id
+3,te3,date_created
+4,te4,date_modified
+5,te5,ip_address
+6,te6,email_address
+7,te7,first_name
+8,te8,last_name
+9,te9,custom_1
+10,l1,Distrito
+11,te10,Nombre
+12,gen,Género
+13,l2,Por favor indique cuál de los siguientes cargos usted tiene
+14,l3,Otro (especifique)
+15,sd1,"Por favor, indique cuál es su lugar de residencia"
+16,sd2,Estado/Provincia
+17,sd3,"Por favor, indique cuál es su año de nacimiento"
+18,l4,"Actualmente, además de su cargo actual, ¿Ud. tiene alguna otra ocupación o trabajo por el que percibe algún ingreso?"
+19,l5,Tengo otra ocupación (especifique)
+20,l6a,Por favor indique cuál o cuáles fueron sus ocupaciones antes de acceder a su cargo actual (político o no político)
+21,l6b,Ante última ocupación
+22,l6c,Ante penúltima ocupación
+23,e1a,¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización). Instituciones ligadas a la producción de ideas políticas y económicas (think tank)
+24,e1b,¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  Asociación estudiantil
+25,e1c,¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  Movimiento de trabajadores o sindicales
+26,e1d,"¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  Movimiento sociales (ambiental / feminista, etc.)"
+27,e1e,¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  Asociación profesional
+28,e1f,"¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  Organizaciones territoriales (asociación vecinal, comedores comunitarios, asamblea barrial, movimiento de desocupados, etc.)"
+29,e1g,¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  Cámara empresaria o sectorial
+30,e1h,¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  ONGs o fundaciones de voluntariado con fines sociales
+31,e1i,¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  Movimientos u organizaciones religiosos
+32,e1j,"¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  Sociedades de fomento, cooperativas o mutuales"
+33,e1k,¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  Clubes sociales y deportivos
+34,e1l,"¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  Clubes de membresía exclusiva (Jockey Club, Countries, Clubes de Campo)"
+35,e1m,"Si ud. participa o ha participado en algún otro tipo de organización, por favor especifique cuál."
+36,e2a,"Independientemente de que haya o no participado en ellas, ¿cuán cerca o lejos se siente ud. del tipo de actividad que, en términos generales, expresan cada uno de los siguientes tipos de organizaciones? Instituciones ligadas a la producción de ideas políticas y económicas (think tank)"
+37,e2b,"Independientemente de que haya o no participado en ellas, ¿cuán cerca o lejos se siente ud. del tipo de actividad que, en términos generales, expresan cada uno de los siguientes tipos de organizaciones? Movimiento estudiantil"
+38,e2c,"Independientemente de que haya o no participado en ellas, ¿cuán cerca o lejos se siente ud. del tipo de actividad que, en términos generales, expresan cada uno de los siguientes tipos de organizaciones? Movimiento de trabajadores o sindicales"
+39,e2d,"Independientemente de que haya o no participado en ellas, ¿cuán cerca o lejos se siente ud. del tipo de actividad que, en términos generales, expresan cada uno de los siguientes tipos de organizaciones?   Movimientos sociales (ambiental / feminista, etc.)"
+40,e2e,"Independientemente de que haya o no participado en ellas, ¿cuán cerca o lejos se siente ud. del tipo de actividad que, en términos generales, expresan cada uno de los siguientes tipos de organizaciones? Asociación profesional"
+41,e2f,"Independientemente de que haya o no participado en ellas, ¿cuán cerca o lejos se siente ud. del tipo de actividad que, en términos generales, expresan cada uno de los siguientes tipos de organizaciones?Organizaciones territoriales (asociación vecinal, comedores comunitarios, asamblea barrial, movimiento de desocupados, etc.)"
+42,e2g,"Independientemente de que haya o no participado en ellas, ¿cuán cerca o lejos se siente ud. del tipo de actividad que, en términos generales, expresan cada uno de los siguientes tipos de organizaciones? Cámara empresaria o sectorial"
+43,e2h,"Independientemente de que haya o no participado en ellas, ¿cuán cerca o lejos se siente ud. del tipo de actividad que, en términos generales, expresan cada uno de los siguientes tipos de organizaciones? ONGs o fundaciones de voluntariado con fines sociales"
+44,e2i,"Independientemente de que haya o no participado en ellas, ¿cuán cerca o lejos se siente ud. del tipo de actividad que, en términos generales, expresan cada uno de los siguientes tipos de organizaciones? Movimientos u organizaciones religiosos"
+45,e2j,"Independientemente de que haya o no participado en ellas, ¿cuán cerca o lejos se siente ud. del tipo de actividad que, en términos generales, expresan cada uno de los siguientes tipos de organizaciones? Sociedades de fomento, cooperativas o mutuales"
+46,e2k,"Independientemente de que haya o no participado en ellas, ¿cuán cerca o lejos se siente ud. del tipo de actividad que, en términos generales, expresan cada uno de los siguientes tipos de organizaciones? Clubes sociales y deportivos"
+47,e2l,"Independientemente de que haya o no participado en ellas, ¿cuán cerca o lejos se siente ud. del tipo de actividad que, en términos generales, expresan cada uno de los siguientes tipos de organizaciones? Clubes de membresía exclusiva (Jockey Club, Countries, Clubes de Campo)"
+48,af1a,¿Cuál es o era la principal ocupación de su madre?
+49,af1b,¿Cuál es o era la principal ocupación de su padre?
+50,af2a,¿Cuál es el máximo nivel de estudios alcanzado por su madre?
+51,af2b,¿Cuál es el máximo nivel de estudios alcanzado por su padre?
+52,t1,¿En qué año comenzó a involucrarse en política?
+53,t2,¿A través de qué tipo de organización lo hizo?
+54, t2i, Otro tipo de organización. Especificar.
+55,af3,"¿Sus padres tenían actividad política partidaria o asociativa? (incluye cualquier participación en sindicatos, asociaciones patronales o profesionales, etc.)"
+56,t3,¿En qué año comenzó a participar activamente de la alianza por la que fue designado en su cargo actual?
+57,t4,¿Está afiliado al partido político por el que fue designado en su cargo actual?
+58,t4a,"Sí, estoy afiliado. Especificar: ¿a cuál?"
+59,t4b,¿En qué año se afilió al partido por el que fue designado en su cargo actual?
+60,t5,"Antes de formar parte de su actual partido, ¿fue usted dirigente, miembro, militante o simpatizante de algún otro partido u organización política?"
+61,t5a,¿De cuál o cuáles?
+62,t6,¿Alguna vez estuvo afiliado a otro partido político?
+63,t7,"Antes de ser electo en su cargo actual, ¿tuvo algún cargo electivo o de funcionario a través de algún otro partido político"
+64,t8,"Dentro de la estructura interna de su partido actual, ¿Ud. tiene algún cargo?"
+65,t8a,¿Qué cargo tiene?
+66,pp1a,"La política partidaria involucra un amplio conjunto de actividades. Por favor indique la importancia que tienen las siguientes actividades en su agenda política cotidiana. Reuniones con otros miembros del partido (formales o informales, del partido o la agrupación de pertenencia)"
+67,pp1b,"La política partidaria involucra un amplio conjunto de actividades. Por favor indique la importancia que tienen las siguientes actividades en su agenda política cotidiana.  Recolección de fondos para el partido (organización de eventos, reuniones con donantes, etc.)"
+68,pp1c,La política partidaria involucra un amplio conjunto de actividades. Por favor indique la importancia que tienen las siguientes actividades en su agenda política cotidiana.  Construir y/o Mantener apoyos de otras organizaciones (sindicales / territoriales / cámaras empresarias y/o asociaciones profesionales)
+69,pp1d,"La política partidaria involucra un amplio conjunto de actividades. Por favor indique la importancia que tienen las siguientes actividades en su agenda política cotidiana.  Difundir las ideas en medios de comunicación (ir a programas de TV, atender periodistas, etc.)"
+70,pp1e,La política partidaria involucra un amplio conjunto de actividades. Por favor indique la importancia que tienen las siguientes actividades en su agenda política cotidiana.  Tareas de formación de cuadros / dirigentes / militantes (organizar o participar)
+71,pp1f,"La política partidaria involucra un amplio conjunto de actividades. Por favor indique la importancia que tienen las siguientes actividades en su agenda política cotidiana.  Actividades en el territorio (mesas en plazas o esquinas, actividades en locales partidarios, recorridas barriales)."
+72,pp1g,"La política partidaria involucra un amplio conjunto de actividades. Por favor indique la importancia que tienen las siguientes actividades en su agenda política cotidiana.  Organizar o participar de actos, manifestaciones"
+73,pp1h,La política partidaria involucra un amplio conjunto de actividades. Por favor indique la importancia que tienen las siguientes actividades en su agenda política cotidiana.  ¿Cuál de las siguientes frases describe mejor el vínculo de sus amigos y personas cercanas con la política?
+74,pp2a,"A continuación, por favor utilice tres palabras para definir al partido por el que fue electo en su cargo actual. Puede utilizar sustantivos, adjetivos o verbos. Palabra 1"
+75,pp2b,"A continuación, por favor utilice tres palabras para definir al partido por el que fue electo en su cargo actual. Puede utilizar sustantivos, adjetivos o verbos. Palabra 2"
+76,pp2c,"A continuación, por favor utilice tres palabras para definir al partido por el que fue electo en su cargo actual. Puede utilizar sustantivos, adjetivos o verbos. Palabra 3"
+77,pp3a,"Pensando en las motivaciones que lo hicieron acercarse al partido por el que fue electo en su cargo actual, a continuación encontrará una serie de frases. Por favor, indique cuáles dos siente que mejor expresan su parecer. Lo más importante para mi actividad política es el crecimiento del partido"
+78,pp3b,"Pensando en las motivaciones que lo hicieron acercarse al partido por el que fue electo en su cargo actual, a continuación encontrará una serie de frases. Por favor, indique cuáles dos siente que mejor expresan su parecer. . Formo parte de este partido porque representa mis ideales y valores"
+79,pp3c,"Pensando en las motivaciones que lo hicieron acercarse al partido por el que fue electo en su cargo actual, a continuación encontrará una serie de frases. Por favor, indique cuáles dos siente que mejor expresan su parecer. Estoy en este partido porque me permite crecer profesionalmente"
+80,pp3d,"Pensando en las motivaciones que lo hicieron acercarse al partido por el que fue electo en su cargo actual, a continuación encontrará una serie de frases. Por favor, indique cuáles dos siente que mejor expresan su parecer.  Mi inclusión en el partido tiene que ver más que nada con mi confianza hacia el líder"
+81,pp3e,"Pensando en las motivaciones que lo hicieron acercarse al partido por el que fue electo en su cargo actual, a continuación encontrará una serie de frases. Por favor, indique cuáles dos siente que mejor expresan su parecer.  Me sumé al partido porque pensaba que de ese modo podía crecer en mi carrera política y llegar a donde otra organización no me lo permitía"
+82,pp3f,"Pensando en las motivaciones que lo hicieron acercarse al partido por el que fue electo en su cargo actual, a continuación encontrará una serie de frases. Por favor, indique cuáles dos siente que mejor expresan su parecer.  Ser parte de este partido me permite realizarme como persona"
+83,pp4a,"Otras investigaciones han mostrado que los dirigentes identifican su actividad política de diversos modos. A continuación encontrará una serie de frases. Por favor, indique cuáles dos siente que mejor expresan su parecer. La experiencia en política me ofrece oportunidades de crecimiento en mi carrera profesional"
+84,pp4b,"Otras investigaciones han mostrado que los dirigentes identifican su actividad política de diversos modos. A continuación encontrará una serie de frases. Por favor, indique cuáles dos siente que mejor expresan su parecer.  Para mi la política es algo que uno abraza de una vez y para siempre en su vida"
+85,pp4c,"Otras investigaciones han mostrado que los dirigentes identifican su actividad política de diversos modos. A continuación encontrará una serie de frases. Por favor, indique cuáles dos siente que mejor expresan su parecer.  La política es para mi una herramienta a través de la cual desarrollar mi vocación de ayudar a los demás"
+86,pp4d,"Otras investigaciones han mostrado que los dirigentes identifican su actividad política de diversos modos. A continuación encontrará una serie de frases. Por favor, indique cuáles dos siente que mejor expresan su parecer.  Me involucré en política creyendo que podía ser eficiente en la gestión de los recursos públicos"
+87,pp4e,"Otras investigaciones han mostrado que los dirigentes identifican su actividad política de diversos modos. A continuación encontrará una serie de frases. Por favor, indique cuáles dos siente que mejor expresan su parecer.  Con mi participación política espero transformar la sociedad"
+88,pp4f,"Otras investigaciones han mostrado que los dirigentes identifican su actividad política de diversos modos. A continuación encontrará una serie de frases. Por favor, indique cuáles dos siente que mejor expresan su parecer.  Mi vínculo con la política es producto de un momento especial de la Argentina"
+89,pp5a,"Piense ahora en los criterios de selección de candidatos para ocupar cargos electivos. A su entender, ¿cuáles son los criterios más importantes que debería seguir su partido? Por favor, indique la importancia de cada criterio mencionado. La intención de voto medida por encuestas"
+90,pp5b,"Piense ahora en los criterios de selección de candidatos para ocupar cargos electivos. A su entender, ¿cuáles son los criterios más importantes que debería seguir su partido? Por favor, indique la importancia de cada criterio mencionado.  El resultado de elecciones internas para selección de candidatos"
+91,pp5c,"Piense ahora en los criterios de selección de candidatos para ocupar cargos electivos. A su entender, ¿cuáles son los criterios más importantes que debería seguir su partido? Por favor, indique la importancia de cada criterio mencionado. Surgir del acuerdo entre líderes del partido para armar las listas"
+92,pp5d,"Piense ahora en los criterios de selección de candidatos para ocupar cargos electivos. A su entender, ¿cuáles son los criterios más importantes que debería seguir su partido? Por favor, indique la importancia de cada criterio mencionado. Poseer capacidad de movilización de apoyos territoriales"
+93,pp5e,"Piense ahora en los criterios de selección de candidatos para ocupar cargos electivos. A su entender, ¿cuáles son los criterios más importantes que debería seguir su partido? Por favor, indique la importancia de cada criterio mencionado. Los valores personales de los candidatos"
+94,pp5f,"Piense ahora en los criterios de selección de candidatos para ocupar cargos electivos. A su entender, ¿cuáles son los criterios más importantes que debería seguir su partido? Por favor, indique la importancia de cada criterio mencionado. Ser reconocido por el éxito profesional (artístico, deportivo, empresario)"
+95,pp5g,"Piense ahora en los criterios de selección de candidatos para ocupar cargos electivos. A su entender, ¿cuáles son los criterios más importantes que debería seguir su partido? Por favor, indique la importancia de cada criterio mencionado. Ser reconocido por un saber técnico y/o profesional específico (economía, gestión)"
+96,pp6a,"Piense ahora en los tipos de formación de dirigentes en su partido. Por favor, indique la importancia que para usted debería tener cada tipo de formación. Cursos de historia política y económica argentina"
+97,pp6b,"Piense ahora en los tipos de formación de dirigentes en su partido. Por favor, indique la importancia que para usted debería tener cada tipo de formación. Cursos de economía y gestión"
+98,pp6c,"Piense ahora en los tipos de formación de dirigentes en su partido. Por favor, indique la importancia que para usted debería tener cada tipo de formación. Cursos de oratoria, comunicación política y estrategias en campañas electorales"
+99,pp6d,"Piense ahora en los tipos de formación de dirigentes en su partido. Por favor, indique la importancia que para usted debería tener cada tipo de formación. Cursos de manejo de nuevas tecnologías de la información y la comunicación"
+100,pp6e,"Piense ahora en los tipos de formación de dirigentes en su partido. Por favor, indique la importancia que para usted debería tener cada tipo de formación. Cursos sobre políticas públicas y funcionamiento de las instituciones estatales"
+101,pp6f,"Piense ahora en los tipos de formación de dirigentes en su partido. Por favor, indique la importancia que para usted debería tener cada tipo de formación.  Cursos sobre problemas específicos (violencia, género, seguridad, derechos humanos)"
+102,pp6g,"Piense ahora en los tipos de formación de dirigentes en su partido. Por favor, indique la importancia que para usted debería tener cada tipo de formación. Cursos de filosofía, teoría social y política (corrientes del pensamiento social, político y económico)"
+103,pe1a,La inseguridad es el principal problema del país
+104,pe1b,Argentina debería adoptar medidas más estrictas para regular la llegada de migrantes
+105,pe1c,"En materia de DDHH, lo más importante es mirar hacia adelante y no hacia atrás"
+106,pe1d,Está de acuerdo con la despenalización del aborto
+107,pe1e,El Estado debería regular la explotación de los recursos naturales de interés social y subordinarla a sus necesidades medioambientales y energéticas
+108,pe1f,El Estado debe reducir las diferencias de ingresos entre los diferentes grupos sociales
+109,pe1g,El mercado es el mejor y más eficaz mecanismo de asignación de recursos
+110,pe1h,El Banco Central debe ser independiente del Poder Ejecutivo
+111,pe1i,La privatización de los servicios públicos es uno de los principales fracasos de la década del 90
+112,pe1j,La salud y la educación pública deben ocuparse solo de las personas de bajos recursos
+113,pe1k,La economía de un país es como la economía de una familia: no se puede gastar más de lo que ingresa
+114,pe1l,Lo más importante en la política argentina debería ser el respeto por el orden republicano y la división de poderes
+115,pe1m,Debe reducirse el poder de los sindicatos en la política argentina
+116,pe1n,Las protestas sociales deben ser  controladas para garantizar el derecho a la libre circulación de las personas
+117,pe1o,La corrupción es el principal problema de la política argentina
+118,pe1p,Los pobres votan condicionados por el clientelismo
+119,pe1q,Un sistema democrático debería ser ante todo un sistema que garantiza la alternancia política
+120,pe1r,Un sistema democrático debería ser ante todo un sistema que protege y fomenta derechos sociales
+121,pe2,"Políticamente, ¿donde se ubicaría Ud. en la siguiente escala, siendo 1 muy a la izquierda y 10 muy a la derecha?﻿"
+122,pe3,¿Ud. es una persona religiosa?
+123,pe3a,¿Se considera practicante?
+124,sd4,¿Cuál es su máximo nivel de estudios alcanzado?
+125,sd5b,"Puede decirme en qué tipo de establecimiento realizó sus estudios primarios (en cada caso, indique por favor donde terminó sus estudios)"
+126,sd6,"Puede decirme en qué tipo de establecimiento realizó sus estudios secundarios (en cada caso, indique por favor donde terminó sus estudios)"
+127,sd7,"Puede decirme en qué tipo de establecimiento realizó sus estudios universitarios 1 (en cada caso, indique por favor donde terminó sus estudios)"
+128,sd7a,Título obtenido Universitario
+129,sd8,"Puede decirme en qué tipo de establecimiento realizó sus estudios universitarios 2 (en cada caso, indique por favor donde terminó sus estudios)"
+130,sd8a,Título obtenido Universitario 2
+131,sd9,"Puede decirme en qué tipo de establecimiento realizó sus estudios de posgrado 1 (en cada caso, indique por favor donde terminó sus estudios)"
+132,sd9a,Título obtenido Posgrado
+133,sd10,"Puede decirme en qué tipo de establecimiento realizó sus estudios de posgrado 2 (en cada caso, indique por favor donde terminó sus estudios)"
+134,sd10a,Título obtenido Posgrado 2
+135,sd11,Indique por favor el lugar en que nació
+136,t9,Por favor indique por qué partido fue electo en su cargo actual
+137,t10,Por favor indique su partido de pertenencia al momento de responder la encuesta
