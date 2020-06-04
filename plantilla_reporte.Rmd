@@ -1,0 +1,78 @@
+---
+title: "Plantilla de reporte"
+author: "Martín Paladino"
+date: "4/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Carga de librerías
+
+> En este proyecto uso principalmente la librería [tidyverse](https://www.tidyverse.org) para el manejo de datos. 
+
+```{r}
+#install.packages(tidyverse)
+library(tidyverse)
+```
+
+# Carga de datos
+
+```{r}
+# Cargar la base de datos
+
+elencos <- readRDS("datos/elencos.rds")
+
+# Cargar el diccionario de variables
+
+diccionario <- read_csv("datos/diccionario.csv")
+
+```
+
+# Funciones personalizadas para el manejo de datos
+
+```{r}
+# La función renombrar cambia los nombres cortos de variable a etiquetas largas. 
+#Está diseñanda para funcionar sin argumentos, no lleva nada entre paréntesis.
+# input: un data frame, ouput un data frame
+
+renombrar <- function(x) {
+  viejos = diccionario$nombre[match(names(x), diccionario$nombre)]
+  nuevos = diccionario$etiqueta[match(names(x), diccionario$nombre)]
+  viejos = viejos[!is.na(viejos)]
+  nuevos = nuevos[!is.na(nuevos)]
+  rename_at(x, vars(viejos), ~nuevos)
+}
+
+
+# Usa expresiones regulares para reducir detectar cadenas de caracteres y asignar un partido/órbita política 
+# input un vector, ouput un vector
+
+reducir_partidos <- function(x) {
+  variable = tolower(x)
+  partido = case_when(
+    str_detect(variable, "pro|cambiemos|ucr|integración|recrear|cc") ~ "cambiemos", 
+    str_detect(variable, "unidad|frente|fpv|sur|consenso|izquierda") ~ "peronismo", 
+    TRUE ~ "otro o sin datos (residual)"
+  )
+  partido
+}
+```
+
+# Hacer un conteo
+
+```{r}
+elencos %>% 
+  count(gen)
+```
+
+# Agregar proporciones
+
+```{r}
+elencos %>% 
+  count(gen) %>%
+  mutate(proporcion = n / sum(n))
+```
+
