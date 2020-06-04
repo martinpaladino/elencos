@@ -18,9 +18,13 @@ indice,nombre,etiqueta
 17,sd3,"Por favor, indique cuál es su año de nacimiento"
 18,l4,"Actualmente, además de su cargo actual, ¿Ud. tiene alguna otra ocupación o trabajo por el que percibe algún ingreso?"
 19,l5,Tengo otra ocupación (especifique)
+19, l5R, Otra ocupación (además del cargo) recodificada
 20,l6a,Por favor indique cuál o cuáles fueron sus ocupaciones antes de acceder a su cargo actual (político o no político)
+20, l6aR, Última ocupación recodificada
 21,l6b,Ante última ocupación
+21, l6bR, Anteúltima ocupación recodificada
 22,l6c,Ante penúltima ocupación
+22, l6cR, Antepenúltima ocupación recodificada
 23,e1a,¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización). Instituciones ligadas a la producción de ideas políticas y económicas (think tank)
 24,e1b,¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  Asociación estudiantil
 25,e1c,¿Qué tipo de relación ha tenido o tiene con cada una de las siguientes organizaciones? (una respuesta por cada tipo de organización).  Movimiento de trabajadores o sindicales
@@ -52,6 +56,14 @@ indice,nombre,etiqueta
 51,af2b,¿Cuál es el máximo nivel de estudios alcanzado por su padre?
 52,t1,¿En qué año comenzó a involucrarse en política?
 53,t2,¿A través de qué tipo de organización lo hizo?
+53, t2a, ¿A través de qué tipo de organización comenzó a involucrarse en política? Partido político / Organización política / Juventud partidaria
+53, t2b, ¿A través de qué tipo de organización comenzó a involucrarse en política? Sindicato
+53, t2c, ¿A través de qué tipo de organización comenzó a involucrarse en política? ONG / Fundaciones
+53, t2d, ¿A través de qué tipo de organización comenzó a involucrarse en política? Movimiento / Organización social
+53, t2e, ¿A través de qué tipo de organización comenzó a involucrarse en política? Movimiento estudiantil (secundario/universitariop)
+53, t2f, ¿A través de qué tipo de organización comenzó a involucrarse en política? Cámara empresarial
+53, t2g, ¿A través de qué tipo de organización comenzó a involucrarse en política? Asociación profesional
+53, t2h, ¿A través de qué tipo de organización comenzó a involucrarse en política? Otro
 54, t2i, Otro tipo de organización. Especificar.
 55,af3,"¿Sus padres tenían actividad política partidaria o asociativa? (incluye cualquier participación en sindicatos, asociaciones patronales o profesionales, etc.)"
 56,t3,¿En qué año comenzó a participar activamente de la alianza por la que fue designado en su cargo actual?
